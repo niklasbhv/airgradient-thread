@@ -1,7 +1,7 @@
-AirGradient Arduino Library for ESP8266 (Wemos D1 MINI) and ESP32 (ESP32-C3 Mini)
+AirGradient Arduino Library for ESP8266 (Wemos D1 MINI) and ESP32 (ESP32-C3 Mini and ESP32-H2 Mini)
 =====================================================================================================
 
-This is the code for the AirGradient open-source indoor and outdoor air quality monitors with ESP8266 / ESP32-C3 Microcontrollers.
+This is the code for the AirGradient open-source indoor and outdoor air quality monitors with ESP8266 / ESP32-C3 / ESP32-H2 Microcontrollers.
 
 More information on the air quality monitors and kits are available here:
 Indoor Monitor: https://www.airgradient.com/indoor/
